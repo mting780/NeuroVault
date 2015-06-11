@@ -32,8 +32,8 @@ from neurovault import settings
 from sendfile import sendfile
 from xml.dom import minidom
 from fnmatch import fnmatch
-import nibabel as nib
 from glob import glob
+import nibabel as nib
 import neurovault
 import traceback
 import tempfile
